@@ -1,4 +1,4 @@
-# Exploratory Data Analysis and Machine Learning Projects
+# Exploratory Data Analysis and Machine Learning Algorithms
 
 Welcome to the repository for Exploratory Data Analysis (EDA) and Machine Learning (ML) projects. This repository contains various Jupyter notebooks demonstrating EDA on different datasets and implementations of multiple ML algorithms.
 
